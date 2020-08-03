@@ -1,0 +1,88 @@
+C:\Users\Emre\source\repos\Twitch\bin\Debug\Twitch.exe.config
+C:\Users\Emre\source\repos\Twitch\bin\Debug\Twitch.exe
+C:\Users\Emre\source\repos\Twitch\bin\Debug\Twitch.pdb
+C:\Users\Emre\source\repos\Twitch\obj\Debug\Twitch.Form1.resources
+C:\Users\Emre\source\repos\Twitch\obj\Debug\Twitch.Properties.Resources.resources
+C:\Users\Emre\source\repos\Twitch\obj\Debug\Twitch.csproj.GenerateResource.cache
+C:\Users\Emre\source\repos\Twitch\obj\Debug\Twitch.csproj.CoreCompileInputs.cache
+C:\Users\Emre\source\repos\Twitch\obj\Debug\Twitch.exe
+C:\Users\Emre\source\repos\Twitch\obj\Debug\Twitch.pdb
+C:\Users\Emre\source\repos\Twitch\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Emre\source\repos\Twitch\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Emre\source\repos\Twitch\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Emre\source\repos\Twitch\obj\Debug\Twitch.csproj.CopyComplete
+C:\Users\Emre\Desktop\Twitch\bin\Debug\Twitch.exe.config
+C:\Users\Emre\Desktop\Twitch\bin\Debug\Twitch.exe
+C:\Users\Emre\Desktop\Twitch\bin\Debug\Twitch.pdb
+C:\Users\Emre\Desktop\Twitch\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Emre\Desktop\Twitch\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Emre\Desktop\Twitch\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Emre\Desktop\Twitch\obj\Debug\Twitch.csprojAssemblyReference.cache
+C:\Users\Emre\Desktop\Twitch\obj\Debug\Twitch.Form1.resources
+C:\Users\Emre\Desktop\Twitch\obj\Debug\Twitch.Properties.Resources.resources
+C:\Users\Emre\Desktop\Twitch\obj\Debug\Twitch.csproj.GenerateResource.cache
+C:\Users\Emre\Desktop\Twitch\obj\Debug\Twitch.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\Twitch\obj\Debug\Twitch.csproj.CopyComplete
+C:\Users\Emre\Desktop\Twitch\obj\Debug\Twitch.exe
+C:\Users\Emre\Desktop\Twitch\obj\Debug\Twitch.pdb
+C:\Users\Emre\Desktop\Twitch\bin\Debug\Geckofx-Core.dll
+C:\Users\Emre\Desktop\Twitch\bin\Debug\Geckofx-Winforms.dll
+C:\Users\Emre\Desktop\Twitch\bin\Debug\Geckofx-Core.pdb
+C:\Users\Emre\Desktop\Twitch\bin\Debug\Geckofx-Winforms.pdb
+C:\Users\Emre\Desktop\Twitch1\bin\Debug\Geckofx-Core.dll
+C:\Users\Emre\Desktop\Twitch1\bin\Debug\Geckofx-Winforms.dll
+C:\Users\Emre\Desktop\Twitch1\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Emre\Desktop\Twitch1\bin\Debug\Geckofx-Core.pdb
+C:\Users\Emre\Desktop\Twitch1\bin\Debug\Geckofx-Winforms.pdb
+C:\Users\Emre\Desktop\Twitch1\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Emre\Desktop\Twitch1\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Emre\Desktop\Twitch1\obj\Debug\Twitch.Form1.resources
+C:\Users\Emre\Desktop\Twitch1\obj\Debug\Twitch.Properties.Resources.resources
+C:\Users\Emre\Desktop\Twitch1\obj\Debug\Twitch.csproj.GenerateResource.cache
+C:\Users\Emre\Desktop\Twitch1\obj\Debug\Twitch.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\Twitch1\obj\Debug\Twitch.csproj.CopyComplete
+C:\Users\Emre\Desktop\Twitch1\obj\Debug\Twitch.chat.resources
+C:\Users\Emre\Desktop\Twitch1\bin\Debug\XanderUI.dll
+C:\Users\Emre\Desktop\Twitch1\bin\Debug\Yayın Yardımcısı.exe.config
+C:\Users\Emre\Desktop\Twitch1\bin\Debug\Yayın Yardımcısı.exe
+C:\Users\Emre\Desktop\Twitch1\bin\Debug\Yayın Yardımcısı.pdb
+C:\Users\Emre\Desktop\Twitch1\obj\Debug\Yayın Yardımcısı.exe
+C:\Users\Emre\Desktop\Twitch1\obj\Debug\Yayın Yardımcısı.pdb
+C:\Users\Emre\Desktop\Twitch\Hazırlanıyor\Twitch1\bin\Debug\Yayın Yardımcısı.exe.config
+C:\Users\Emre\Desktop\Twitch\Hazırlanıyor\Twitch1\bin\Debug\Yayın Yardımcısı.exe
+C:\Users\Emre\Desktop\Twitch\Hazırlanıyor\Twitch1\bin\Debug\Yayın Yardımcısı.pdb
+C:\Users\Emre\Desktop\Twitch\Hazırlanıyor\Twitch1\bin\Debug\Geckofx-Core.dll
+C:\Users\Emre\Desktop\Twitch\Hazırlanıyor\Twitch1\bin\Debug\Geckofx-Winforms.dll
+C:\Users\Emre\Desktop\Twitch\Hazırlanıyor\Twitch1\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Emre\Desktop\Twitch\Hazırlanıyor\Twitch1\bin\Debug\Geckofx-Core.pdb
+C:\Users\Emre\Desktop\Twitch\Hazırlanıyor\Twitch1\bin\Debug\Geckofx-Winforms.pdb
+C:\Users\Emre\Desktop\Twitch\Hazırlanıyor\Twitch1\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Emre\Desktop\Twitch\Hazırlanıyor\Twitch1\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Emre\Desktop\Twitch\Hazırlanıyor\Twitch1\obj\Debug\Twitch.csprojAssemblyReference.cache
+C:\Users\Emre\Desktop\Twitch\Hazırlanıyor\Twitch1\obj\Debug\Twitch.chat.resources
+C:\Users\Emre\Desktop\Twitch\Hazırlanıyor\Twitch1\obj\Debug\Twitch.Form1.resources
+C:\Users\Emre\Desktop\Twitch\Hazırlanıyor\Twitch1\obj\Debug\Twitch.Properties.Resources.resources
+C:\Users\Emre\Desktop\Twitch\Hazırlanıyor\Twitch1\obj\Debug\Twitch.csproj.GenerateResource.cache
+C:\Users\Emre\Desktop\Twitch\Hazırlanıyor\Twitch1\obj\Debug\Twitch.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\Twitch\Hazırlanıyor\Twitch1\obj\Debug\Twitch.csproj.CopyComplete
+C:\Users\Emre\Desktop\Twitch\Hazırlanıyor\Twitch1\obj\Debug\Yayın Yardımcısı.exe
+C:\Users\Emre\Desktop\Twitch\Hazırlanıyor\Twitch1\obj\Debug\Yayın Yardımcısı.pdb
+E:\Twitch\Hazırlanıyor\Twitch1\bin\Debug\Yayın Yardımcısı.exe.config
+E:\Twitch\Hazırlanıyor\Twitch1\bin\Debug\Yayın Yardımcısı.exe
+E:\Twitch\Hazırlanıyor\Twitch1\bin\Debug\Yayın Yardımcısı.pdb
+E:\Twitch\Hazırlanıyor\Twitch1\bin\Debug\Geckofx-Core.dll
+E:\Twitch\Hazırlanıyor\Twitch1\bin\Debug\Geckofx-Winforms.dll
+E:\Twitch\Hazırlanıyor\Twitch1\bin\Debug\HtmlAgilityPack.dll
+E:\Twitch\Hazırlanıyor\Twitch1\bin\Debug\Geckofx-Core.pdb
+E:\Twitch\Hazırlanıyor\Twitch1\bin\Debug\Geckofx-Winforms.pdb
+E:\Twitch\Hazırlanıyor\Twitch1\bin\Debug\HtmlAgilityPack.pdb
+E:\Twitch\Hazırlanıyor\Twitch1\bin\Debug\HtmlAgilityPack.xml
+E:\Twitch\Hazırlanıyor\Twitch1\obj\Debug\Twitch.csprojAssemblyReference.cache
+E:\Twitch\Hazırlanıyor\Twitch1\obj\Debug\Twitch.chat.resources
+E:\Twitch\Hazırlanıyor\Twitch1\obj\Debug\Twitch.Form1.resources
+E:\Twitch\Hazırlanıyor\Twitch1\obj\Debug\Twitch.Properties.Resources.resources
+E:\Twitch\Hazırlanıyor\Twitch1\obj\Debug\Twitch.csproj.GenerateResource.cache
+E:\Twitch\Hazırlanıyor\Twitch1\obj\Debug\Twitch.csproj.CoreCompileInputs.cache
+E:\Twitch\Hazırlanıyor\Twitch1\obj\Debug\Twitch.csproj.CopyComplete
+E:\Twitch\Hazırlanıyor\Twitch1\obj\Debug\Yayın Yardımcısı.exe
+E:\Twitch\Hazırlanıyor\Twitch1\obj\Debug\Yayın Yardımcısı.pdb
